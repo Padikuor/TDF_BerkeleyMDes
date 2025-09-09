@@ -28,10 +28,12 @@ Hello World Printout and 1 blinking LED Code <br/>
 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8d72a511-5b14-4693-aed2-b2fa584ab148" />
+
+
 Circuit diagram <br/> 
 
 
-![1LED](https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)
+img width="600" height="600" alt="image" src="![1LED](https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)" />
 
 
 
@@ -62,7 +64,8 @@ Video of the work <br/>
 
 
 
-![HelloWorld_TrafficLight](https://github.com/user-attachments/assets/4f2a0394-b941-402b-9f48-0772fa4197c2)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f2a0394-b941-402b-9f48-0772fa4197c2"/>
+
 
 
 Picture of the work
