@@ -7,38 +7,46 @@ For our assignment we are asked to print hello world and also get 2 or more LEDs
 This was really fun even though I sort of did it overnight. Below is my work. I'm new to github so hopefully I get some ttime over the weekend to organize my work and make it look nice!
 
  ### Activity 1  
+
+ 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6953cc66-2a21-4959-8147-681dff61e3bd" />
+
+
 Hello World Code  
+
+
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f1e6a26-ae28-4789-9949-7b684be04610" />
+
+
 Serial Monitor View  
 
 
 ### Activity 2  
-Hello World Printout and 1 blinking LED  
+Hello World Printout and 1 blinking LED <br/>  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1b1900fd-ca83-4dd7-9a29-8aaf64afdbbf" />
-Hello World Printout and 1 blinking LED Code  
+Hello World Printout and 1 blinking LED Code <br/>  
 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8d72a511-5b14-4693-aed2-b2fa584ab148" />
-Circuit diagram  
+Circuit diagram <br/> 
 
 
 
-### Activity 3 - The Assignment  
-Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously  
+### Activity 3 - The Assignment <br/> 
+Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously  <br/>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9c217dfb-3827-4272-9c36-a2521932f6cf" />
-Hello World Printout and Traffic Light Simulation Code  
+Hello World Printout and Traffic Light Simulation Code  <br/>
 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/757f1c0f-bc7e-4cc3-bf9e-7236e5f9eba5" />
 
-Circuit Diagram  
+Circuit Diagram  <br/>
 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/65e497e3-5e1d-4fde-9ee0-501bbab7fc8a" />
 
 
-Schematic Diagram using Tinkercad  
+Schematic Diagram using Tinkercad  <br/>
 
 
 
