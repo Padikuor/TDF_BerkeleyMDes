@@ -35,7 +35,8 @@ Hello World Printout and 1 blinking LED Code <br/>
 Circuit diagram <br/> 
 
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3ef9adf5-4e6c-426f-bb27-fa3596685d59" />
+
 
 
 
