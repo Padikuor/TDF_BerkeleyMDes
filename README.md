@@ -24,6 +24,8 @@ Serial Monitor View
 ### Activity 2  
 Hello World Printout and 1 blinking LED <br/>  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1b1900fd-ca83-4dd7-9a29-8aaf64afdbbf" />
+
+
 Hello World Printout and 1 blinking LED Code <br/>  
 
 
@@ -33,7 +35,7 @@ Hello World Printout and 1 blinking LED Code <br/>
 Circuit diagram <br/> 
 
 
-img width="600" height="600" alt="image" src="![1LED](https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)" />
 
 
 
