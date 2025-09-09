@@ -3,7 +3,7 @@
 ## Week 2  
 
 It's the second week of TDF and we worked on printing "hello world" with an arduino.\
-For our assignment we are asked to print hello world and also get 2 or more LEDs to blink in one program.
+For our assignment we were asked to print hello world and also get 2 or more LEDs to blink in one program.
 This was really fun even though I sort of did it overnight. Below is my work. I'm new to github so hopefully I get some ttime over the weekend to organize my work and make it look nice!
 
  ### Activity 1  
