@@ -31,6 +31,10 @@ Hello World Printout and 1 blinking LED Code <br/>
 Circuit diagram <br/> 
 
 
+![1LED](https://github.com/user-attachments/assets/f7f88156-8c93-4dca-866e-ba5e510cd91e)
+
+
+
 
 ### Activity 3 - The Assignment <br/> 
 Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously  <br/>
@@ -46,8 +50,20 @@ Circuit Diagram  <br/>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/65e497e3-5e1d-4fde-9ee0-501bbab7fc8a" />
 
 
+
 Schematic Diagram using Tinkercad  <br/>
 
 
 
+https://github.com/user-attachments/assets/772e823b-00a3-427e-9526-ead1168c2a47
 
+Video of the work <br/>
+
+
+
+
+![HelloWorld_TrafficLight](https://github.com/user-attachments/assets/4f2a0394-b941-402b-9f48-0772fa4197c2)
+
+
+Picture of the work
+<br/>
