@@ -65,6 +65,17 @@ https://github.com/user-attachments/assets/772e823b-00a3-427e-9526-ead1168c2a47
 
 Video of the work <br/>
 
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f2a0394-b941-402b-9f48-0772fa4197c2"/>
+
+
+
+Picture of the work
+<br/>
+
+
+
+
 ### Laser Cutting
 #### Activity 1
 
@@ -93,20 +104,12 @@ Laser cut some earrings
 
 
 
-
-
-
-
-
-
 ## Week 3
+### Electronics
+
+
+### 3D Modeling and Printing
 
 
 
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f2a0394-b941-402b-9f48-0772fa4197c2"/>
-
-
-
-Picture of the work
-<br/>
