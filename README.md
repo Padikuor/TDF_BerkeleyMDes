@@ -1,12 +1,13 @@
 # TDF_BerkeleyMDes  
 
-## Week 2  
+## Week 2   
 
 It's the second week of TDF and we worked on printing "hello world" with an arduino.\
 For our assignment we were asked to print hello world and also get 2 or more LEDs to blink in one program.
 This was really fun even though I sort of did it overnight. Below is my work. I'm new to github so hopefully I get some time over the weekend to organize my work and make it look nice!
 
- ### Activity 1  
+### Electronics
+ #### Activity 1  
 
  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6953cc66-2a21-4959-8147-681dff61e3bd" />
@@ -21,7 +22,7 @@ Hello World Code
 Serial Monitor View  
 
 
-### Activity 2  
+#### Activity 2  
 Hello World Printout and 1 blinking LED <br/>  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1b1900fd-ca83-4dd7-9a29-8aaf64afdbbf" />
 
@@ -41,7 +42,7 @@ Circuit diagram <br/>
 
 
 
-### Activity 3 - The Assignment <br/> 
+#### Activity 3 - The Assignment <br/> 
 Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously  <br/>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9c217dfb-3827-4272-9c36-a2521932f6cf" />
 Hello World Printout and Traffic Light Simulation Code  <br/>
@@ -63,6 +64,42 @@ Schematic Diagram using Tinkercad  <br/>
 https://github.com/user-attachments/assets/772e823b-00a3-427e-9526-ead1168c2a47
 
 Video of the work <br/>
+
+### Laser Cutting
+#### Activity 1
+
+![IMG_0089](https://github.com/user-attachments/assets/8e0b2f97-4ef6-4ade-bc65-6a13df682087)
+Concept Draft
+
+
+
+<img width="1503" height="942" alt="Screenshot 2025-09-15 234423" src="https://github.com/user-attachments/assets/0468c75e-b05e-485c-8148-eee996db831e" />
+Illustrator drawing for Laser cutting
+
+
+![IMG_0085](https://github.com/user-attachments/assets/22ad3766-76ce-4948-a1a0-1fd33eed3faf)
+Laser Cutting using wood
+
+
+![IMG_0078](https://github.com/user-attachments/assets/869cae52-b045-4e6a-955a-2829dc239888)
+Laser Cutting using cardboard
+
+![IMG_0079](https://github.com/user-attachments/assets/0070816f-3455-42b9-83fc-23e42cbc1a50)
+
+Got the cardboard right on the second attempt
+
+![IMG_0075](https://github.com/user-attachments/assets/361feea8-ab5e-462e-8bb8-d2613944d3a7)
+Laser cut some earrings
+
+
+
+
+
+
+
+
+
+## Week 3
 
 
 
