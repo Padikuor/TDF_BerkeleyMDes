@@ -111,6 +111,10 @@ Laser cut some earrings
 Electronics Circuit
 
 
+
+
+
+
 <img width="487" height="616" alt="image" src="https://github.com/user-attachments/assets/4b9d326b-d5ce-40b8-b539-ead07e3d5151" />
 
 The code
@@ -125,6 +129,11 @@ The Video
 ![IMG_0094](https://github.com/user-attachments/assets/0908acad-1293-4fe3-b665-35faa057b686)
 
 The Picture
+
+
+
+
+
 
 
 
