@@ -107,6 +107,26 @@ Laser cut some earrings
 ## Week 3
 ### Electronics
 
+<img width="358" height="466" alt="image" src="https://github.com/user-attachments/assets/605ffa39-fc45-4f15-913c-9f82a82708ec" />
+Electronics Circuit
+
+
+<img width="487" height="616" alt="image" src="https://github.com/user-attachments/assets/4b9d326b-d5ce-40b8-b539-ead07e3d5151" />
+
+The code
+
+
+
+https://github.com/user-attachments/assets/3171bd89-6e8f-4e64-84ea-110a83ae39eb
+
+
+The Video
+
+![IMG_0094](https://github.com/user-attachments/assets/0908acad-1293-4fe3-b665-35faa057b686)
+
+The Picture
+
+
 
 ### 3D Modeling and Printing
 
