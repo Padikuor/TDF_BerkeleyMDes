@@ -138,6 +138,30 @@ The Picture
 
 
 ### 3D Modeling and Printing
+![IMG_0134](https://github.com/user-attachments/assets/f33bdeca-db78-4645-80d3-0348b8b7e12e)
+
+
+
+
+## Week 4
+
+Electronics
+
+![IMG_0237](https://github.com/user-attachments/assets/9d1bdfb5-66de-41fa-a4e7-2e359ae5fa00)
+
+
+Picture
+
+https://github.com/user-attachments/assets/e4c0704f-18e6-4c65-90d6-14c94740a9a0
+
+
+Video
+
+
+Arduino code with Servo and ultrasononic sensor
+
+
+NB: This is just to show evidence taht I did the assignment. I will reorganize for submission on Friday!
 
 
 
