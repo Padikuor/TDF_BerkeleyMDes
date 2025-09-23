@@ -161,7 +161,7 @@ Video
 Arduino code with Servo and ultrasononic sensor
 
 
-NB: This is just to show evidence taht I did the assignment. I will reorganize for submission on Friday!
+NB: This is just to show evidence that I did the assignment. I will reorganize for submission on Friday!
 
 
 
