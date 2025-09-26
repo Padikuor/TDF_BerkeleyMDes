@@ -26,9 +26,14 @@ It's week one, we were given an Arduino Uno starter kit and we were asked to ins
 
 It's the second week of TDF and we worked on printing "hello world" with an arduino.\
 For our assignment we were asked to print hello world and also get 2 or more LEDs to blink in one program.
-This was really fun even though I sort of did it overnight. Below is my work. I'm new to github so hopefully I get some time over the weekend to organize my work and make it look nice!
+This was really fun even though I sort of did it overnight. Below is my work in pictures and videos. I'm new to github so hopefully I get some time over the weekend to organize my work and make it look nice!
 
 ### Electronics
+Below I have several activities or iterations of my Arduino code to do different activities as stated below:
+1. Printout Hello World
+2. Hello World Printout and 1 blinking LED
+3. Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously)
+   
  #### Activity 1  
 
  
@@ -65,7 +70,7 @@ Circuit diagram <br/>
 
 
 #### Activity 3 - The Assignment <br/> 
-Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously  <br/>
+Hello World Printout and Traffic Light Simulation (3 blinking LED simultaneously)  <br/>
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9c217dfb-3827-4272-9c36-a2521932f6cf" />
 Hello World Printout and Traffic Light Simulation Code  <br/>
 
@@ -99,7 +104,10 @@ Picture of the work
 
 
 ### Laser Cutting
+
+
 #### Activity 1
+Below I have various activities and concepts in pictures for my lasercut work. The earrings were a personal experiment. It wasn't perfect but I'm featuring here as part of my activities.
 
 <img src="https://github.com/user-attachments/assets/8e0b2f97-4ef6-4ade-bc65-6a13df682087" alt="IMG_0089" width="600" height="600">
 
@@ -108,40 +116,41 @@ Concept Draft
 
 
 <img width="600" height="600" alt="Screenshot 2025-09-15 234423" src="https://github.com/user-attachments/assets/0468c75e-b05e-485c-8148-eee996db831e" />
+
 Illustrator drawing for Laser cutting
 
 
-![IMG_0085](https://github.com/user-attachments/assets/22ad3766-76ce-4948-a1a0-1fd33eed3faf)
-Laser Cutting using wood
+<img src="https://github.com/user-attachments/assets/22ad3766-76ce-4948-a1a0-1fd33eed3faf" alt="IMG_0085" width="600" height="600">
+
+Laser Cutting using plywood
 
 
-![IMG_0078](https://github.com/user-attachments/assets/869cae52-b045-4e6a-955a-2829dc239888)
+<img src="https://github.com/user-attachments/assets/869cae52-b045-4e6a-955a-2829dc239888" alt="IMG_0078" width="600" height="600">
+
 Laser Cutting using cardboard
 
-![IMG_0079](https://github.com/user-attachments/assets/0070816f-3455-42b9-83fc-23e42cbc1a50)
+<img src="https://github.com/user-attachments/assets/0070816f-3455-42b9-83fc-23e42cbc1a50" alt="IMG_0079" width="600" height="600">
 
 Got the cardboard right on the second attempt
 
-![IMG_0075](https://github.com/user-attachments/assets/361feea8-ab5e-462e-8bb8-d2613944d3a7)
+<img src="https://github.com/user-attachments/assets/0070816f-3455-42b9-83fc-23e42cbc1a50" alt="IMG_0079" width="600" height="600">
+
 Laser cut some earrings
 
 
 
 ## Week 3
+In Week 3 we were given an assignment to use the potentiometer
+
 ### Electronics
 
 <img width="358" height="466" alt="image" src="https://github.com/user-attachments/assets/605ffa39-fc45-4f15-913c-9f82a82708ec" />
+
 Electronics Circuit
-
-
-
-
-
 
 <img width="487" height="616" alt="image" src="https://github.com/user-attachments/assets/4b9d326b-d5ce-40b8-b539-ead07e3d5151" />
 
 The code
-
 
 
 https://github.com/user-attachments/assets/3171bd89-6e8f-4e64-84ea-110a83ae39eb
@@ -149,19 +158,24 @@ https://github.com/user-attachments/assets/3171bd89-6e8f-4e64-84ea-110a83ae39eb
 
 The Video
 
-![IMG_0094](https://github.com/user-attachments/assets/0908acad-1293-4fe3-b665-35faa057b686)
+<img src="https://github.com/user-attachments/assets/0908acad-1293-4fe3-b665-35faa057b686" alt="IMG_0094" width="600" height="600">
+
 
 The Picture
 
 
 
 
+### Fabrication(3D Modeling and Printing)
+We were asked to 3D print our rings. Below is a 3D printed version of my initial laser cut rings.
+I used Fusion 360 to do the design and the Prusa slicer to get my G-code. I printed these in the makerspace on Prusa i3 MK3S 3D printer with a black filament. Maybe, I should have been more intentional about my colour coding.
 
 
+Picture of my 3D models
 
 
-### 3D Modeling and Printing
-![IMG_0134](https://github.com/user-attachments/assets/f33bdeca-db78-4645-80d3-0348b8b7e12e)
+<img src="https://github.com/user-attachments/assets/f33bdeca-db78-4645-80d3-0348b8b7e12e" alt="IMG_0134" width="600" height="600">
+This is how my printouts came out
 
 
 
