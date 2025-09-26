@@ -16,6 +16,7 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 [Week 5](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-5)
 
 ## Week 1
+#### Aug 28 2025
 
 It's week one, we were given an Arduino Uno starter kit and we were asked to install the Arduino Software, Adobe Illustrator and Fusion 360. We were also required to complete the online laser cutting training.
 
@@ -23,7 +24,8 @@ It's week one, we were given an Arduino Uno starter kit and we were asked to ins
 
 
 
-## Week 2   
+## Week 2 
+#### Sept 2 2025 -Sept 4 2025
 
 It's the second week of TDF and we worked on printing "hello world" with an arduino.\
 For our assignment we were asked to print hello world and also get 2 or more LEDs to blink in one program.
@@ -104,7 +106,8 @@ Picture of the work
 
 
 
-### Laser Cutting
+### Fabrication
+#### Laser Cutting
 
 
 #### Activity 1
@@ -141,6 +144,7 @@ Laser cut some earrings
 
 
 ## Week 3
+#### Sept 9 2025 -Sept 11 2025
 In Week 3 we were given an assignment to use the potentiometer
 
 ### Electronics
@@ -189,7 +193,11 @@ This is how my printouts came out
 
 
 ## Week 4
+#### Sept 16 2025 - Sept 18 2025
+
 This week was a prequel to our first major assignment. 
+
+
 ### Electronics
 
 <img src="https://github.com/user-attachments/assets/9d1bdfb5-66de-41fa-a4e7-2e359ae5fa00" alt="IMG_0237" width="600" height="600">
@@ -217,6 +225,7 @@ We were to think through different origami designs with the contraints of 0-20 f
 Trying out some boat designs
 
 ## Week 5
+#### Sept 23 2025 - Sept 25 2025
 The almighty Week 5 is here! It's the week we present our work on Emotive Origami. Unfortunately for me I found out I couldn't use the boat origami so I had to start conceptualizing from scratch. Here goes something!
 
 
