@@ -302,10 +302,11 @@ It’s one more day to presentation day and now I am being careful not to make t
 
 26th September, 2025
 It's Demo day!
+
  <img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/937ff3df-f69c-4af1-af9c-5906b7371d29" />
 
 It’s final demo day and we are ready! It’s too late to make changes now. 
-This is a picture of me recording my work before the demo.
+This is a picture of my work before the demo.
 
 ### Electronics
  <img width="733" height="569" alt="image" src="https://github.com/user-attachments/assets/46c192db-91c7-4aa7-9868-99ed322c1635" />
