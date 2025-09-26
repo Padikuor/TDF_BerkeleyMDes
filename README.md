@@ -1,4 +1,14 @@
-# TDF_BerkeleyMDes  
+# Technology Design Foundations 
+Hi there! 👋
+Welcome to my Technology Design Foundations journal. Think of this as a behind-the-scenes tour of my journey, fully loaded with projects, experiments, challenges, and plenty of iterations. It’s a mix of trial, error, and discovery, and I’m excited for you to explore what I’ve been building. Enjoy the ride! 🚀
+
+## Week 1
+
+It's week one, we were given an Arduino Uno starter kit and we were asked to install the Arduino Software, Adobe Illustrator and Fusion 360. We were also required to complete the online laser cutting training.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5fe2df54-4186-4593-8b7e-d10eb55d233e" />
+
+
 
 ## Week 2   
 
@@ -145,7 +155,7 @@ The Picture
 
 ## Week 4
 
-Electronics
+### Electronics
 
 ![IMG_0237](https://github.com/user-attachments/assets/9d1bdfb5-66de-41fa-a4e7-2e359ae5fa00)
 
