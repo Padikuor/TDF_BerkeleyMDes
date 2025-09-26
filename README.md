@@ -2,6 +2,18 @@
 Hi there! 👋
 Welcome to my Technology Design Foundations journal. Think of this as a behind-the-scenes tour of my journey, fully loaded with projects, experiments, challenges, and plenty of iterations. It’s a mix of trial, error, and discovery, and I’m excited for you to explore what I’ve been building. Enjoy the ride! 🚀
 
+## Table of Content
+
+[Week 1](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-1)
+
+[Week 2](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-2)
+
+[Week 3](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-3)
+
+[Week 4](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-4)
+
+[Week 5](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-5)
+
 ## Week 1
 
 It's week one, we were given an Arduino Uno starter kit and we were asked to install the Arduino Software, Adobe Illustrator and Fusion 360. We were also required to complete the online laser cutting training.
@@ -170,6 +182,8 @@ Video
 
 
 Arduino code with Servo and ultrasononic sensor
+
+## Week 5
 
 
 NB: This is just to show evidence that I did the assignment. I will reorganize for submission on Friday!
