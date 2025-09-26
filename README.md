@@ -232,7 +232,9 @@ The almighty Week 5 is here! It's the week we present our work on Emotive Origam
 
 ### The Abstract Sculpture
 
-18th September 2025
+
+
+##### 18th September 2025
 ### Ideation Stage
 
 <img width="711" height="390" alt="image" src="https://github.com/user-attachments/assets/54e84a8e-78cc-40ee-b421-b5e4b16010e1" />
@@ -246,7 +248,9 @@ I started to conceptualize what I wanted to do looking at the time available. I 
 <img width="708" height="336" alt="image" src="https://github.com/user-attachments/assets/ea4d5a03-bc4d-4c0f-b7bc-260fe61e9295" />
 I built different origami boats, with different shapes and heights but I settled for this structure because the midpoint was just right for the motion I wanted.
 
-19th September, 2025
+
+
+##### 19th September, 2025
 ### Electronics
  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/24483678-21e5-4061-8346-04d2ae02561a" />
 
@@ -256,7 +260,8 @@ On this day, I wrote the code for my project. I had some bugs along the way but 
 A snapshot of the electronics circuit. This wasn’t so difficult for me to do. 
 I’m glad the code worked well as well.
 
-20th September, 2025
+
+##### 20th September, 2025
 ### Fabrication
 
 
@@ -269,7 +274,8 @@ Today I decided to printout some sacrificial servo arms. I noticed my 3D printin
 I wanted to use black foamboard for my casing however, I did not get some at the Jacobs store so I had to improvise and cover my box with black paper. I also used cardboard to create an internal structure to house the Arduino and breadboard. I cut out the portions for the servo and ultrasonic sensor as well.
 
 
-23rd September, 2025
+
+##### 23rd September, 2025
 ### Fabrication
 <img width="428" height="571" alt="image" src="https://github.com/user-attachments/assets/028ba372-c239-4113-bea6-fd48f8fdffb6" />
 
@@ -290,7 +296,8 @@ I used Tinkercard to create an electrical/electronic  and schematic diagram of m
 To represent the connections and flow of current.
 
 
-24th September 2025
+
+##### 24th September 2025
 
 ### Fabrication
 
@@ -300,7 +307,8 @@ To represent the connections and flow of current.
 It’s one more day to presentation day and now I am being careful not to make too many changes because ultimately, I need my project to move. I decided to add a cover to my box. The cover became a hood which was interfering with my ultrasonic sensor readings so I had to cut off the edge.
 
 
-26th September, 2025
+
+##### 26th September, 2025
 It's Demo day!
 
  <img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/937ff3df-f69c-4af1-af9c-5906b7371d29" />
