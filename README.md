@@ -6,7 +6,7 @@ Welcome to my Technology Design Foundations journal. Think of this as a behind-t
 
 It's week one, we were given an Arduino Uno starter kit and we were asked to install the Arduino Software, Adobe Illustrator and Fusion 360. We were also required to complete the online laser cutting training.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5fe2df54-4186-4593-8b7e-d10eb55d233e" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5fe2df54-4186-4593-8b7e-d10eb55d233e" />
 
 
 
@@ -89,12 +89,13 @@ Picture of the work
 ### Laser Cutting
 #### Activity 1
 
-![IMG_0089](https://github.com/user-attachments/assets/8e0b2f97-4ef6-4ade-bc65-6a13df682087)
+<img src="https://github.com/user-attachments/assets/8e0b2f97-4ef6-4ade-bc65-6a13df682087" alt="IMG_0089" width="600" height="600">
+
 Concept Draft
 
 
 
-<img width="1503" height="942" alt="Screenshot 2025-09-15 234423" src="https://github.com/user-attachments/assets/0468c75e-b05e-485c-8148-eee996db831e" />
+<img width="600" height="600" alt="Screenshot 2025-09-15 234423" src="https://github.com/user-attachments/assets/0468c75e-b05e-485c-8148-eee996db831e" />
 Illustrator drawing for Laser cutting
 
 
