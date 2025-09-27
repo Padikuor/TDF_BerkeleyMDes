@@ -154,7 +154,7 @@ Laser Cutting using cardboard
 
 Got the cardboard right on the second attempt
 
-<img src="https://github.com/user-attachments/assets/0070816f-3455-42b9-83fc-23e42cbc1a50" alt="IMG_0079" width="600" height="600">
+<img src="https://github.com/user-attachments/assets/db1c436a-c054-4623-9f94-4cd9e4502f46" alt="IMG_0075" width="600" height="600">
 
 
 Laser cut some earrings
