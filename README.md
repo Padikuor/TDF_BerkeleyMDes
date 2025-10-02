@@ -5,7 +5,7 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 
 ## Table of Content
 
-[Week 1](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-1)
+[Week 1](README.md#week-1)
 
 [Week 2](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-2)
 
@@ -13,9 +13,9 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 
 [Week 4](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-4)
 
-[Week 5](https://github.com/Padikuor/TDF_BerkeleyMDes/edit/main/README.md#week-5)
+[Week 5](README.md#week-5)
 
-## Week 1
+# Week 1 #
 #### Aug 28 2025
 
 It's week one, we were given an Arduino Uno starter kit and we were asked to install the Arduino Software, Adobe Illustrator and Fusion 360. We were also required to complete the online laser cutting training.
@@ -260,7 +260,7 @@ We were to think through different origami designs with the contraints of 0-20 f
 Trying out some boat designs
 
 
-## Week 5
+# Week 5 #
 #### Sept 23 2025 - Sept 25 2025
 The almighty Week 5 is here! It's the week we present our work on Emotive Origami. Unfortunately for me I found out I couldn't use the boat origami so I had to start conceptualizing from scratch. Here goes something!
 
