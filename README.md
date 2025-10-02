@@ -5,7 +5,7 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 
 ## Table of Content
 
-[Week 1](README.md##week-1)
+[Week 1](README.md#week-1)
 
 [Week 2](README.md#week-2)
 
