@@ -260,7 +260,7 @@ We were to think through different origami designs with the contraints of 0-20 f
 Trying out some boat designs
 
 
-# Week 5 #
+## Week 5 
 #### Sept 23 2025 - Sept 25 2025
 The almighty Week 5 is here! It's the week we present our work on Emotive Origami. Unfortunately for me I found out I couldn't use the boat origami so I had to start conceptualizing from scratch. Here goes something!
 
@@ -376,6 +376,9 @@ https://github.com/user-attachments/assets/bc4f842d-bec2-4a22-8361-bf5ff2ea0c66
 
 
 Video of my work
+
+
+
 
 
 
