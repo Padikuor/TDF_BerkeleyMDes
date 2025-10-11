@@ -15,6 +15,10 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 
 [Week 5](README.md#week-5)
 
+[Week 6](README.md#week-6)
+
+[Week 7](README.md#week-7)
+
 ## Week 1 #
 #### Aug 28 2025
 
@@ -376,6 +380,153 @@ https://github.com/user-attachments/assets/bc4f842d-bec2-4a22-8361-bf5ff2ea0c66
 
 
 Video of my work
+
+Link to my portfolio and files: https://drive.google.com/drive/folders/1TYjRttPxEuPqf2OmIun_7tYWVyMGgpiw?usp=sharing
+
+
+
+## Week 6
+#### Sept 28 2025 - Oct 4 2025
+
+This week was a prequel to our second major assignment. 
+
+
+### Electronics
+
+I began my project with the electronics and coding section since it felt like the easiest part to start with.
+
+
+#### Soldering the DC Motor
+
+
+youtube.com/watch?v=1sJRUqIma3g&feature=youtu.be
+
+Using a helpful YouTube tutorial by Dr Sudhu, I soldered cables to my DC motor — it turned out simpler than expected. I secured everything neatly with a cable tie.
+ [Watch the demo on YouTube](youtube.com/watch?v=1sJRUqIma3g&feature=youtu.be)
+
+#### Electronics Connection
+
+I created and tested my circuit using an Arduino, motor driver, and DC motor setup.
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7c6fd1a8-9f33-4274-a8e3-dfff59e9bd07" />
+Diagram showing the electronics connection
+
+<img width="775" height="600" alt="image" src="https://github.com/user-attachments/assets/1891e925-ba88-4055-8446-74582a197702" />
+Schematic diagram of the electronics circuit
+
+
+
+https://github.com/user-attachments/assets/ecd190e9-2fa8-4bee-9883-7d047a8291ce
+Video of my circuit connection
+
+
+
+#### System Behaviour & Diagrams
+I mapped out how the entire system works from power input to motion output showing how each component interacts.
+
+Flow process or concept
+
+This interactive system explores the connection between computer vision and physical computing using p5.js, Arduino, and machine learning. In the p5 sketch, a computer vision model detects and identifies human ears in real time, marking them with yellow circles on the video feed. The program analyzes the ears’ movement. When the head tilts clockwise, it sends a command through the Web Serial API to the Arduino, causing a DC motor to rotate in the same direction; when the head tilts anticlockwise, the motor mirrors the motion. The system also maps the speed of head movement to the motor’s rotational speed, creating a seamless interaction where digital perception directly translates into mechanical response.
+
+<img width="975" height="322" alt="image" src="https://github.com/user-attachments/assets/e58e6be4-5058-4b75-95c8-bebcd878b738" />
+                                       System Behavior
+
+<img width="975" height="819" alt="image" src="https://github.com/user-attachments/assets/a9650818-525c-43ef-a44d-f0eb2694b1cd" />
+                                       System Diagram
+
+
+
+
+
+### Fabrication
+For fabrication, I sketched my mechanical ideas and listed the materials I would need.
+Materials and components list: plywood, glue, string, DC motor, Arduino Uno, motor driver, and laptop (for running P5 and Arduino code).
+
+
+Mechanical Ideas
+I explored different wheel and gear concepts, experimenting with shapes and motion before deciding what to prototype.
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6cd0eef9-5013-4444-82fa-fef669bd479c" />
+
+
+<img width="955" height="520" alt="image" src="https://github.com/user-attachments/assets/4433cc4d-faeb-485f-add5-5d8c9dd16a33" />
+
+
+## Week 7
+#### Oct 5 2025 - Oct 11 2025
+
+### Electronics
+This week was focused on refining my P5 sketch and Arduino code. Both were integrated to make the system responsive and interactive.
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9050fb47-3673-4bd8-b40b-1f735b7b279c" />
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/74c51a42-4e22-4fcc-a049-b01f4f3c2921" />
+                        P5 Sketch
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e05209bd-6f2f-4947-9404-1dbe679a6dd6" />
+                        Arduino code
+
+<img width="899" height="1350" alt="image" src="https://github.com/user-attachments/assets/a67cd04a-e443-4617-8c64-7fed5ecbce77" />
+                        Functional Block Diagram
+
+
+### Fabrication
+My initial concept idea was on creating a gear-based design, but the first prototype didn’t achieve the desired outcome and so I decided to pivot toward a simpler yet effective concept that I could refine and complete  within the limited period. I finalized on using two wheels and the double pulley system logic.
+
+<img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/1aeb71da-5589-4da4-905e-9b0019fb1647" />
+
+
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7bd877b8-d951-4471-af5c-d2e929f339aa" />
+                     My cut out parts
+                     
+
+#### Iterations
+<img width="587" height="782" alt="image" src="https://github.com/user-attachments/assets/c832d443-2b72-45e0-b41e-52fe7d1212af" />
+My concept design had a horizontal layout but in order for the second moving object to be visible I decided to incline the layout, giving it a more conspicuous look
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7266f30b-8dcb-48db-a66c-b6a9792a08c6" />
+String choices, options and iterations
+I had to try out different strings to ensure my design worked flawlessly. I realized that the strings that had more tension and friction worked perfectly. I even noticed that using the knot to tie the string was not efficient because the tension in the string could reduce. I finally settled on using a cable tie to hold the string. I currently use the white or brown rope-like strings
+
+
+       <img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/a3957558-7a4c-4219-8f38-28726deff6f0" />
+
+Wood supports iteration
+So initially, I placed my wood supports in the middle of my L-design however, it was obstructing my lower wheel from moving freely so I had to displace it to the edge.
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b73d21e9-23a5-446c-be69-2bf2fc0a572a" />
+
+ 
+Some parts I designed and cut out but never used…. Tears!😢
+
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e5fc9bf7-814d-4862-bd43-a7e289087767" />
+ 
+Almost completed design but the small butterfly needs to be replaced
+
+
+ <img width="670" height="600" alt="image" src="https://github.com/user-attachments/assets/a19eaf09-a416-48c8-89df-4d8266ba2f37" />
+
+Final look of my project
+
+
+
+https://github.com/user-attachments/assets/734e5c18-bd47-4e46-9398-9b4bbc4d7ef5
+
+
+
+
+Working video
+
+Link to my portfolio and files
+https://drive.google.com/drive/folders/1p6dJxdSeqCzCXSi5ix5qf7m1bH3xHRaC?usp=drive_link
+
+
+
 
 
 
