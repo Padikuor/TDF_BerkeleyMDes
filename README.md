@@ -391,6 +391,8 @@ Link to my portfolio and files: https://drive.google.com/drive/folders/1TYjRttPx
 This week was a prequel to our second major assignment. 
 
 
+
+
 ### Electronics
 
 I began my project with the electronics and coding section since it felt like the easiest part to start with.
@@ -454,7 +456,7 @@ For fabrication, I sketched my mechanical ideas and listed the materials I would
 Materials and components list: plywood, glue, string, DC motor, Arduino Uno, motor driver, and laptop (for running P5 and Arduino code).
 
 
-Mechanical Ideas
+#### Mechanical Ideas
 I explored different wheel and gear concepts, experimenting with shapes and motion before deciding what to prototype.
 
 
@@ -466,6 +468,8 @@ I explored different wheel and gear concepts, experimenting with shapes and moti
 
 ## Week 7
 #### Oct 5 2025 - Oct 11 2025
+
+
 
 ### Electronics
 This week was focused on refining my P5 sketch and Arduino code. Both were integrated to make the system responsive and interactive.
@@ -490,6 +494,8 @@ Arduino code
  Functional Block Diagram
 
 
+
+
 ### Fabrication
 My initial concept idea was on creating a gear-based design, but the first prototype didn’t achieve the desired outcome and so I decided to pivot toward a simpler yet effective concept that I could refine and complete  within the limited period. I finalized on using two wheels and the double pulley system logic.
 
@@ -500,6 +506,8 @@ My initial concept idea was on creating a gear-based design, but the first proto
 
 
 My cut out parts
+
+
                      
 
 #### Iterations
@@ -516,7 +524,9 @@ String choices, options and iterations
 I had to try out different strings to ensure my design worked flawlessly. I realized that the strings that had more tension and friction worked perfectly. I even noticed that using the knot to tie the string was not efficient because the tension in the string could reduce. I finally settled on using a cable tie to hold the string. I currently use the white or brown rope-like strings
 
 
-       <img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/a3957558-7a4c-4219-8f38-28726deff6f0" />
+
+   <img width="975" height="395" alt="image" src="https://github.com/user-attachments/assets/e8dbb784-d2e7-4282-8846-8c548a67d11c" />
+   
 
 
 Wood supports iteration
