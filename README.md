@@ -451,6 +451,10 @@ System Diagram
 
 
 
+
+
+
+
 ### Fabrication
 For fabrication, I sketched my mechanical ideas and listed the materials I would need.
 Materials and components list: plywood, glue, string, DC motor, Arduino Uno, motor driver, and laptop (for running P5 and Arduino code).
@@ -466,8 +470,16 @@ I explored different wheel and gear concepts, experimenting with shapes and moti
 <img width="955" height="520" alt="image" src="https://github.com/user-attachments/assets/4433cc4d-faeb-485f-add5-5d8c9dd16a33" />
 
 
+
+
+
+
+
+
 ## Week 7
 #### Oct 5 2025 - Oct 11 2025
+
+
 
 
 
@@ -492,6 +504,8 @@ Arduino code
 
  
  Functional Block Diagram
+
+
 
 
 
