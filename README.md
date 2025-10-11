@@ -467,7 +467,7 @@ I explored different wheel and gear concepts, experimenting with shapes and moti
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6cd0eef9-5013-4444-82fa-fef669bd479c" />
 
 
-<img width="955" height="520" alt="image" src="https://github.com/user-attachments/assets/4433cc4d-faeb-485f-add5-5d8c9dd16a33" />
+<img width="655" height="500" alt="image" src="https://github.com/user-attachments/assets/4433cc4d-faeb-485f-add5-5d8c9dd16a33" />
 
 
 
