@@ -700,7 +700,6 @@ Breadboard
 
 ### Electronics
 
-<img width="975" height="622" alt="image" src="https://github.com/user-attachments/assets/83ff9e1a-f336-4e60-a3a6-194b9ff7f661" />
 
 
 <img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/6988be41-6926-48c6-ac2a-bf63a5cd01b0" />
@@ -713,6 +712,12 @@ Diagram of electronics connection
 This week I connected the electronics components and made sure there was a complete correct circuit connection.
 
 <img width="730" height="973" alt="image" src="https://github.com/user-attachments/assets/08eb2b85-1d30-460d-84b8-f394bd36a0c3" />
+
+
+
+
+<img width="975" height="622" alt="image" src="https://github.com/user-attachments/assets/83ff9e1a-f336-4e60-a3a6-194b9ff7f661" />
+
 
 
 
