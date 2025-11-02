@@ -887,6 +887,10 @@ This week I revised our code so that we have each colour representing an action 
 
 https://github.com/user-attachments/assets/02c30356-5b93-4e0b-83e8-c4aecb25b882
 
+This is a video of the Neopixel LED strip working with my code
+
+
+
 
 
 
