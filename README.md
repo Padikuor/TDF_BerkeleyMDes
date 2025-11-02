@@ -19,6 +19,14 @@ My name is Ida. Welcome to my Technology Design Foundations journal. Think of th
 
 [Week 7](README.md#week-7)
 
+[Week 8](README.md#week-8)
+
+[Week 9](README.md#week-9)
+
+[Week 10](README.md#week-10)
+
+
+
 ## Week 1 #
 #### Aug 28 2025
 
