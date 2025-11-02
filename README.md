@@ -596,7 +596,7 @@ Link to my portfolio and files
 https://drive.google.com/drive/folders/1p6dJxdSeqCzCXSi5ix5qf7m1bH3xHRaC?usp=drive_link
 
 
-##Week 8 
+## Week 8 
 #### 12th October– 18th October
 
 
@@ -665,7 +665,7 @@ Breadboard
 
 <img width="797" height="583" alt="Screenshot 2025-11-01 155730" src="https://github.com/user-attachments/assets/7fd67248-e786-49cb-90c8-72ac282473b8" />
 
-##Week 9 
+## Week 9 
 #### 19th October -25th October 
 ###Electronics
 
@@ -696,7 +696,7 @@ This week we further developed our physical design with illustrations of how our
 We also designed the shapes of the acrylic fins and tested the design by laser cutting the shapes on plywood. We had 10 shapes which we repeated 6 times making a total of 60 fins.
 
 
-##Week 10 
+## Week 10 
 ####26th October- 1stt November 
 ###Electronics
 
