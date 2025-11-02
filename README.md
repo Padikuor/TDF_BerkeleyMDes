@@ -748,6 +748,12 @@ This week I revised our code so that we have each colour representing an action 
 
 
 
+
+
+https://github.com/user-attachments/assets/02c30356-5b93-4e0b-83e8-c4aecb25b882
+
+
+
 ### Fabrication
 
 
@@ -795,7 +801,15 @@ Paola frosted some acrylic as well and sanded all the edges to shape them well s
 
 
 
+https://github.com/user-attachments/assets/57b9c8e9-3fc3-4fd3-82a2-7a481a553b83
+
+
+
+
+
 <img width="1221" height="611" alt="Screenshot 2025-11-01 172320" src="https://github.com/user-attachments/assets/88b26055-d55b-40c1-ae92-1299f7230db5" />
+
+
 
 
 With the help of our project advisor, Chris Myers, we designed a 3d modeled base to hold our electronics components
