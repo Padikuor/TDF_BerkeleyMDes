@@ -608,29 +608,48 @@ The Ambient Display project explores how information can be communicated subtly 
 This week, the project was introduced, and I partnered with Paola Rodriguez. Together, we spent three days brainstorming and refining ideas.
 
 
+
+
 <img width="775" height="451" alt="image" src="https://github.com/user-attachments/assets/b437a5aa-213a-4a1d-b5f0-2a356b637de7" />
+
+
 
 
 
 We spent 3 days coming up with ideas of what we wanted to do. Above you can find all the ideas we came up with.
 
 
+
+
 <img width="639" height="585" alt="image" src="https://github.com/user-attachments/assets/b16b94e1-8bf0-457d-b7f9-8aa506d5f6fb" />
 
 
+
+
 By day 2 we narrowed down to an idea of a lamp with this kind of structural design. Receiving inspiration from from these similar designs
+
+
 
 
 <img width="675" height="650" alt="image" src="https://github.com/user-attachments/assets/5c5fb721-6ee4-44d9-8447-b4af84f51425" />
 
 
 
+
+
 <img width="675" height="654" alt="image" src="https://github.com/user-attachments/assets/6ce776a9-e21e-4e8c-b2db-261fcfc4bfb0" />
 
-By Day 3 we had a sketch of the type of lamp we wanted to design
+
+
+By Day 3 we finalized with the sketch above as the design of the type of lamp we wanted to make
+
+
 
 
 <img width="685" height="885" alt="image" src="https://github.com/user-attachments/assets/20b8a4fa-f133-407b-ac3a-d181b6e33a02" />
+A picture of my soldered ESP32 V2
+
+
 
 That same week I soldered my Adafruit ESP32 V2 header pins
 [Watch the soldering tutorial on YouTube](https://www.youtube.com/watch?v=IPec237T18U&feature=youtu.be)
@@ -643,12 +662,20 @@ I installed the ESP32 V2 drivers as described in this tutorial
 
 I also set up my ESP32 on the Berkeley IOT network
 
+
+
+
 <img width="775" height="521" alt="image" src="https://github.com/user-attachments/assets/0a8c3cfa-00e1-4380-b11f-e6e4a7a3673f" />
 
 
 I completed a sample tutorial by my teaching assistant, Roopa on using the ESP32 with a weather API. This sample project allowed me to connect my ESP32s to WiFi, receive data about Jacobs Hall from a weather API endpoint, and display the temperature and wind speed through a simple ambient display.
 
 [ESP32 Web API Example by Roopa Ramanujam](https://github.com/roopa-ramanujam/ESP32-web-api-example)
+
+
+
+
+
 
 
 
@@ -686,7 +713,14 @@ Breadboard
 
 
 
+
+
+
 <img width="797" height="583" alt="Screenshot 2025-11-01 155730" src="https://github.com/user-attachments/assets/7fd67248-e786-49cb-90c8-72ac282473b8" />
+
+
+
+
 
 
 
@@ -709,9 +743,21 @@ Breadboard
 Diagram of electronics connection
 
 
-This week I connected the electronics components and made sure there was a complete correct circuit connection.
+
+
+
+
+
 
 <img width="730" height="973" alt="image" src="https://github.com/user-attachments/assets/08eb2b85-1d30-460d-84b8-f394bd36a0c3" />
+
+
+
+This week I connected the electronics components and made sure there was a complete correct circuit connection.
+
+
+
+
 
 
 
@@ -719,16 +765,39 @@ This week I connected the electronics components and made sure there was a compl
 <img width="975" height="622" alt="image" src="https://github.com/user-attachments/assets/83ff9e1a-f336-4e60-a3a6-194b9ff7f661" />
 
 
+##### Iterations
+
+
+<img width="975" height="834" alt="image" src="https://github.com/user-attachments/assets/2849a775-8563-4a2e-bc5d-5a53d6feff9e" />
+
+
+First Code
+
+
+
 
 
 <img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/1ed345c9-381d-4b66-b747-d94c423ba543" />
 
 
+second iterated code
 
-In this week also, I took some time to decide on which API I was going to use. I finally settled on using Wikipedia. I wrote the initial code which initially turned on all the lights at once but I iterated several times and came up with an led strip that turned on systematically, pixel by pixel.
+
+
+In this week also, I took some time to find out which API I wanted to use. I initially started looking at birds related API, then I went to transport, read around using 'X' Api and I finally settled on using Wikipedia Api because it was open and free and the data was changing very frequently without having to put in additional intervention.  I wrote the initial code which initially turned on all the lights at once but I iterated several times and came up with an led strip that turned on systematically, pixel by pixel.
+
+
+
+
+
+
+
 
 
 ### Fabrication
+
+
+
 
 
 <img width="975" height="850" alt="image" src="https://github.com/user-attachments/assets/2bd6e37c-a188-4121-a1e2-25c955bff1c2" />
@@ -737,13 +806,27 @@ In this week also, I took some time to decide on which API I was going to use. I
 Illustration of our physical design
 
 
+
+
+
+
 This week we further developed our physical design with illustrations of how our product will look like and be assembled.
 
 <img width="734" height="763" alt="image" src="https://github.com/user-attachments/assets/0f6d3bda-f6d8-4e34-a147-cd2303a4aa45" />
 
 
 
+
+
+
 We also designed the shapes of the acrylic fins and tested the design by laser cutting the shapes on plywood. We had 10 shapes which we repeated 6 times making a total of 60 fins.
+
+
+
+
+
+
+
 
 
 ## Week 10 
@@ -752,7 +835,13 @@ We also designed the shapes of the acrylic fins and tested the design by laser c
 #### 26th October- 1stt November 
 
 
+
+
 ### Electronics
+
+
+
+##### Iterations
 
 <img width="967" height="256" alt="image" src="https://github.com/user-attachments/assets/5fa05eb4-f91c-4b45-9f7f-ab3f9b71fef6" />
 
@@ -771,6 +860,10 @@ This week I revised our code so that we have each colour representing an action 
 
 
 https://github.com/user-attachments/assets/02c30356-5b93-4e0b-83e8-c4aecb25b882
+
+
+
+
 
 
 
