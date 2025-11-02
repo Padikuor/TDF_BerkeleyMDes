@@ -1005,6 +1005,29 @@ Final product
 Ambient Display
 
 
+### Reflections
+
+
+
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/92d84ba9-2495-4e45-8878-14a57856414a" />
+
+
+
+
+This project was a valuable learning experience that deepened both my technical and creative skills. Working with the ESP32 microcontroller provided a solid understanding of how hardware connects with real-world data through web APIs. It was eye-opening to discover that some APIs are free and open, while others require tokens or authentication, teaching the importance of data access management in connected systems.
+On the fabrication side, the process strengthened my 3D modeling and digital fabrication skills, particularly in designing interconnected forms. Experimenting with LED programming expanded my knowledge of light behavior, how it diffuses, refracts, and reflects through acrylic materials and how subtle adjustments in material texture and geometry can dramatically influence the visual outcome.
+Overall, the project bridged engineering, design, and aesthetics, reinforcing the idea that meaningful interactive objects emerge from both technical mastery and thoughtful material exploration.
+
+
+
+<img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/8173a728-9f28-44d1-aa61-c470bbad3aa5" />
+
+
+
+
+I really enjoyed working with Paola as well and I belief through this I have made a lifelong friend!
+
+
 
 
 
