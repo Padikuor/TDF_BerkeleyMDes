@@ -1025,7 +1025,7 @@ Overall, the project bridged engineering, design, and aesthetics, reinforcing th
 
 
 
-I really enjoyed working with Paola as well and I belief through this I have made a lifelong friend!
+I really enjoyed working with Paola as well and I believe through this I have made a lifelong friend!
 
 
 
