@@ -600,7 +600,9 @@ https://drive.google.com/drive/folders/1p6dJxdSeqCzCXSi5ix5qf7m1bH3xHRaC?usp=dri
 #### 12th October– 18th October
 
 
-###Electronics
+### Electronics
+
+
 Project Brief:
 The Ambient Display project explores how information can be communicated subtly through form, movement, sound, color, or light. Using an Adafruit ESP32 Feather V2, the device retrieves real-world data via web API calls and translates it into meaningful visual or physical feedback. The focus is on creating an aesthetically pleasing and interactive experience, individually or in pairs.
 This week, the project was introduced, and I partnered with Paola Rodriguez. Together, we spent three days brainstorming and refining ideas.
@@ -649,7 +651,11 @@ I completed a sample tutorial by my teaching assistant, Roopa on using the ESP32
 [ESP32 Web API Example by Roopa Ramanujam](https://github.com/roopa-ramanujam/ESP32-web-api-example)
 
 
-###Fabrication
+
+
+### Fabrication
+
+
 Based on our project idea, I developed a material list
 
 
@@ -663,44 +669,74 @@ Tools
 Cables
 Breadboard
 
+
+
 <img width="797" height="583" alt="Screenshot 2025-11-01 155730" src="https://github.com/user-attachments/assets/7fd67248-e786-49cb-90c8-72ac282473b8" />
 
-## Week 9 
+
+
+## Week 9
+
+
 #### 19th October -25th October 
-###Electronics
+
+
+
+
+### Electronics
 
 <img width="975" height="622" alt="image" src="https://github.com/user-attachments/assets/83ff9e1a-f336-4e60-a3a6-194b9ff7f661" />
 
 
 <img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/6988be41-6926-48c6-ac2a-bf63a5cd01b0" />
 
+
+
 Diagram of electronics connection
+
+
 This week I connected the electronics components and made sure there was a complete correct circuit connection.
 
 <img width="730" height="973" alt="image" src="https://github.com/user-attachments/assets/08eb2b85-1d30-460d-84b8-f394bd36a0c3" />
 
+
+
 <img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/1ed345c9-381d-4b66-b747-d94c423ba543" />
+
+
 
 In this week also, I took some time to decide on which API I was going to use. I finally settled on using Wikipedia. I wrote the initial code which initially turned on all the lights at once but I iterated several times and came up with an led strip that turned on systematically, pixel by pixel.
 
 
-###Fabrication:
+### Fabrication
+
+
 <img width="975" height="850" alt="image" src="https://github.com/user-attachments/assets/2bd6e37c-a188-4121-a1e2-25c955bff1c2" />
 
 
 Illustration of our physical design
+
+
 This week we further developed our physical design with illustrations of how our product will look like and be assembled.
 
 <img width="734" height="763" alt="image" src="https://github.com/user-attachments/assets/0f6d3bda-f6d8-4e34-a147-cd2303a4aa45" />
+
+
 
 We also designed the shapes of the acrylic fins and tested the design by laser cutting the shapes on plywood. We had 10 shapes which we repeated 6 times making a total of 60 fins.
 
 
 ## Week 10 
-####26th October- 1stt November 
-###Electronics
+
+
+#### 26th October- 1stt November 
+
+
+### Electronics
 
 <img width="967" height="256" alt="image" src="https://github.com/user-attachments/assets/5fa05eb4-f91c-4b45-9f7f-ab3f9b71fef6" />
+
+
 
 
 This week I revised our code so that we have each colour representing an action in Wikipedia.
@@ -712,27 +748,47 @@ This week I revised our code so that we have each colour representing an action 
 
 
 
-###Fabrication
+### Fabrication
 
 
 <img width="975" height="654" alt="image" src="https://github.com/user-attachments/assets/6cff15a6-5017-49eb-96d0-c2886a20f631" />
 
+
+
 We cut out our test acrylic pieces to be sure they would look as expected.
+
+
 
 <img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/811785bd-3765-422c-9294-2fda1b25eca3" />
 
+
+
 We tested the acrylic piece under our phone’s torch light to be sure it could reflect and diffuse light as we expected.
+
+
 
 <img width="975" height="841" alt="image" src="https://github.com/user-attachments/assets/aa443499-9982-4ceb-be89-ec68b48ec2ad" />
 
+
+
 This week we cut out our acrylic shapes and tested them on the upper base of our plywood with slots. We numbered them from 0-9
 
+
+
 <img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/d0d79f17-fee2-4c1f-9922-74297c1a0028" />
+
+
 Our design had both clear and frosted acrylic pieces. So we spent a day sanding our ‘even numbered’ acrylic pieces to get the frosted look.
 
 
+
+
 <img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/0d02d023-e4e7-4246-83a9-2aa76d2ddf97" />
+
+
 Paola frosted some acrylic as well and sanded all the edges to shape them well so they fit in the slots
+
+
 
 <img width="975" height="488" alt="image" src="https://github.com/user-attachments/assets/0cf7c548-597a-402a-b610-2956ace4bc74" />
 
@@ -747,19 +803,31 @@ With the help of our project advisor, Chris Myers, we designed a 3d modeled base
 
 <img width="975" height="895" alt="image" src="https://github.com/user-attachments/assets/8caeed31-1619-4891-8eba-9b3738b7a924" />
 
+
+
 We tested our electronics assembly in the base
+
+
 
 <img width="975" height="829" alt="image" src="https://github.com/user-attachments/assets/6b317da1-d8b9-4bc6-b6fb-3fc84725d477" />
 
 
 Still testing our product
 
+
+
 <img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/b5fcfe7d-fc57-4319-a0ca-22719e8ec898" />
+
+
 
 
 Final product
 
+
+
 <img width="900" height="1350" alt="image" src="https://github.com/user-attachments/assets/98b0cd91-cb26-4b08-956c-736b6bd494a1" />
+
+
 
 
 Ambient Display
