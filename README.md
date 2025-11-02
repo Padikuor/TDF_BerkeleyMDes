@@ -852,6 +852,22 @@ We also designed the shapes of the acrylic fins and tested the design by laser c
 
 
 
+<img width="583" height="407" alt="image" src="https://github.com/user-attachments/assets/3ae0818c-c1f3-4488-a8e4-8a63d0f1af77" />
+
+
+
+A snapshot of the Adobe illustrator drawings
+
+
+
+
+
+
+
+
+
+
+
 
 
 
