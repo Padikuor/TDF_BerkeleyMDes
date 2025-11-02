@@ -812,6 +812,32 @@ Illustration of our physical design
 
 This week we further developed our physical design with illustrations of how our product will look like and be assembled.
 
+
+
+
+##### Iterations
+
+<img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/e6e280c4-f3a6-4149-89ca-ea6873827802" />
+
+
+
+
+We laser cut our sample design as shown above and realized that we needed extensions for it to fit in a slot since we did not want to glue it to the upper base
+
+
+
+
+<img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/2c6d5132-6955-4b24-972e-b25e460a318a" />
+
+
+We laser cut new designs with extensions so they could fit in the slots in our upper base
+
+
+
+
+
+
+
 <img width="734" height="763" alt="image" src="https://github.com/user-attachments/assets/0f6d3bda-f6d8-4e34-a147-cd2303a4aa45" />
 
 
@@ -870,11 +896,15 @@ https://github.com/user-attachments/assets/02c30356-5b93-4e0b-83e8-c4aecb25b882
 ### Fabrication
 
 
+
+
 <img width="975" height="654" alt="image" src="https://github.com/user-attachments/assets/6cff15a6-5017-49eb-96d0-c2886a20f631" />
 
 
 
 We cut out our test acrylic pieces to be sure they would look as expected.
+
+
 
 
 
@@ -886,6 +916,8 @@ We tested the acrylic piece under our phone’s torch light to be sure it could 
 
 
 
+
+
 <img width="975" height="841" alt="image" src="https://github.com/user-attachments/assets/aa443499-9982-4ceb-be89-ec68b48ec2ad" />
 
 
@@ -894,10 +926,14 @@ This week we cut out our acrylic shapes and tested them on the upper base of our
 
 
 
+
+
 <img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/d0d79f17-fee2-4c1f-9922-74297c1a0028" />
 
 
-Our design had both clear and frosted acrylic pieces. So we spent a day sanding our ‘even numbered’ acrylic pieces to get the frosted look.
+After sampling both clear and frosted acrylic under light, we decided to use both clear and frosted acrylic pieces. So we spent a day sanding our ‘even numbered’ acrylic pieces to get the frosted look.
+
+
 
 
 
@@ -906,6 +942,8 @@ Our design had both clear and frosted acrylic pieces. So we spent a day sanding 
 
 
 Paola frosted some acrylic as well and sanded all the edges to shape them well so they fit in the slots
+
+
 
 
 
@@ -928,6 +966,8 @@ https://github.com/user-attachments/assets/57b9c8e9-3fc3-4fd3-82a2-7a481a553b83
 With the help of our project advisor, Chris Myers, we designed a 3d modeled base to hold our electronics components
 
 
+
+
 <img width="975" height="895" alt="image" src="https://github.com/user-attachments/assets/8caeed31-1619-4891-8eba-9b3738b7a924" />
 
 
@@ -936,10 +976,15 @@ We tested our electronics assembly in the base
 
 
 
+
+
 <img width="975" height="829" alt="image" src="https://github.com/user-attachments/assets/6b317da1-d8b9-4bc6-b6fb-3fc84725d477" />
 
 
 Still testing our product
+
+
+
 
 
 
@@ -958,6 +1003,9 @@ Final product
 
 
 Ambient Display
+
+
+
 
 
 
