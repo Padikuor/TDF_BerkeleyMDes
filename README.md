@@ -603,7 +603,7 @@ https://drive.google.com/drive/folders/1p6dJxdSeqCzCXSi5ix5qf7m1bH3xHRaC?usp=dri
 ### Electronics
 
 
-Project Brief:
+#### Project Brief:
 The Ambient Display project explores how information can be communicated subtly through form, movement, sound, color, or light. Using an Adafruit ESP32 Feather V2, the device retrieves real-world data via web API calls and translates it into meaningful visual or physical feedback. The focus is on creating an aesthetically pleasing and interactive experience, individually or in pairs.
 This week, the project was introduced, and I partnered with Paola Rodriguez. Together, we spent three days brainstorming and refining ideas.
 
@@ -660,13 +660,28 @@ Based on our project idea, I developed a material list
 
 
 Material list:
+
 Adafruit ESP32 V2
+
+
 Adafruit Neopixel Digital RGB strip
+
+
 3D printed cylindrical base
+
+
 Laser cut acrylic pieces (fin shapes)
+
+
 Laser cut bottom base and upper base with cut slots
+
+
 Tools
+
+
 Cables
+
+
 Breadboard
 
 
