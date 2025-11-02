@@ -817,7 +817,7 @@ This week we further developed our physical design with illustrations of how our
 
 ##### Iterations
 
-<img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/e6e280c4-f3a6-4149-89ca-ea6873827802" />
+<img width="675" height="730" alt="image" src="https://github.com/user-attachments/assets/e6e280c4-f3a6-4149-89ca-ea6873827802" />
 
 
 
@@ -827,7 +827,7 @@ We laser cut our sample design as shown above and realized that we needed extens
 
 
 
-<img width="975" height="1300" alt="image" src="https://github.com/user-attachments/assets/2c6d5132-6955-4b24-972e-b25e460a318a" />
+<img width="675" height="730" alt="image" src="https://github.com/user-attachments/assets/2c6d5132-6955-4b24-972e-b25e460a318a" />
 
 
 We laser cut new designs with extensions so they could fit in the slots in our upper base
